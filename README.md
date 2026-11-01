@@ -1,4 +1,5 @@
-# Image Captioning with Structured Object Features
+# OBJECT-AWARE IMAGE CAPTIONING USING STRUCTURED VISUAL REPRESENTATIONS
+
 
 This repository contains a notebook-driven image captioning pipeline that combines object detection with structured scene understanding. The project compares multiple detectors, prepares object-aware feature tensors, and evaluates caption generation models on Flickr8K + Flickr30K data.
 
